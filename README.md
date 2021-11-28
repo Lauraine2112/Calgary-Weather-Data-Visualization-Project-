@@ -16,20 +16,16 @@ are to display this data using the following charts:
     - Scatter point plot  
 
 Your software should also give the user flexibility in showing data for select months, and only 
-showing max or min temperature. Figure 1 displays a sample of the finished project.  
-Important note: Your completed project does NOT have to look exactly like the sample 
-screenshots you see in this document. You can choose different colors/labeling styles. Feel 
-free to be creative!  
+showing max or min temperature. 
 
 ### The Data 
 The data used for this project has been downloaded from the following source: 
 https://calgary.weatherstats.ca/charts/precipitation-monthly.html 
-and has been simplified for your project. Please download the “.csv” file called CalgaryWeather.csv 
-from D2L to use for this project.  
+and has been simplified for this project. Please download the “.csv” file called CalgaryWeather.csv.
 
 ### Minimum Requirements 
     - Interface requirements: 
-        • Appropriate axis and labels for the graph and data (see Figure 1) 
+        • Appropriate axis and labels for the graph and data 
         • Options allowing the user to choose different types of plots  
             o Bar chart 
             o Scatter point plot  
