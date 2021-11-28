@@ -8,7 +8,7 @@ Email:  lauraine.baffot@ucalgary.ca
 
 Program Information
 --------------------------------------------------------------------------------
-#Introduction 
+# Introduction 
 You have been hired by the city to visualize some simple weather data. The data provides the 
 average daily minimum and maximum temperatures for each month for about 30 years. You 
 are to display this data using the following charts: 
@@ -21,13 +21,13 @@ Important note: Your completed project does NOT have to look exactly like the sa
 screenshots you see in this document. You can choose different colors/labeling styles. Feel 
 free to be creative!  
 
-#The Data 
+# The Data 
 The data used for this project has been downloaded from the following source: 
 https://calgary.weatherstats.ca/charts/precipitation-monthly.html 
 and has been simplified for your project. Please download the “.csv” file called CalgaryWeather.csv 
 from D2L to use for this project.  
 
-#Minimum Requirements 
+# Minimum Requirements 
     - Interface requirements: 
         • Appropriate axis and labels for the graph and data (see Figure 1) 
         • Options allowing the user to choose different types of plots  
