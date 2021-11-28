@@ -35,4 +35,6 @@ and has been simplified for this project. Please download the “.csv” file ca
 
 How to Run Program
 --------------------------------------------------------------------------------
-1. Enter Processing and press play.
+Please follow these steps to ensure the program is run properly:
+
+    1. Enter Processing and press play.
